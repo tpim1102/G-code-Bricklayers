@@ -1,6 +1,10 @@
 # G-code-Z-Shift
 Directly process the Z-shift of G-code to achieve compatibility with slicer software
+
+
 This script has been enhanced based on the original work by TengerTechnologies available at https://github.com/TengerTechnologies/Bricklayers.
+
+
 Features
 - Directly process the Z-shift of G-code to achieve compatibility with slicer software.
 - Adjustable layer height and extrusion multiplier.
