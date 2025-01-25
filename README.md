@@ -41,3 +41,9 @@ Log File: All logs are also saved to a z_shift_log.txt file in the script's dire
 Export Modified G-code
 
 Export Button: After processing, users can save the modified G-code to a new file by clicking the "Export" button. The tool suggests a default filename based on the original file but allows users to specify a different name or location.
+
+
+
+Here is a video about the script.[![54654]([圖片url](https://github.com/user-attachments/assets/71f0b857-3691-4823-871b-4444cd2a2baf))]([網址url](https://www.youtube.com/watch?v=3RTSSLVJbAs))
+
+https://youtu.be/3RTSSLVJbAs
