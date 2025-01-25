@@ -44,6 +44,5 @@ Export Button: After processing, users can save the modified G-code to a new fil
 
 
 
-Here is a video about the script.[![54654]([圖片url](https://github.com/user-attachments/assets/71f0b857-3691-4823-871b-4444cd2a2baf))]([網址url](https://www.youtube.com/watch?v=3RTSSLVJbAs))
-
+Here is a video about the script.[![54654](https://github.com/user-attachments/assets/06165c32-21a5-426c-bedb-09aaedc62dae)](https://www.youtube.com/watch?v=3RTSSLVJbAs)
 https://youtu.be/3RTSSLVJbAs
